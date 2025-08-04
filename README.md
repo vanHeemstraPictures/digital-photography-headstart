@@ -1,2 +1,4 @@
-# digital-photography-headstart
-Digital Photography - Headstart
+digital-photography-headstart
+# Digital Photography - Headstart
+
+- [References](./REFERENCES.md)
