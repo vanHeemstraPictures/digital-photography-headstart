@@ -1,4 +1,4 @@
-digital-photography-headstart
-# Digital Photography - Headstart
+digital-photography-management
+# Digital Photography Management
 
 - [References](./REFERENCES.md)
